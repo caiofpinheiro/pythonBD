@@ -11,7 +11,7 @@ Criar conexão com banco de dados e realizar operações básicas(CRUD).
 Criando conexão com dados SQLite, usando SQLAlchemy como ferramenta ORM para interação com banco de dados.
 
 
-### Atividade:
+### 😎Atividade:
 Crie uma classe Aluno com os seguintes atributos:
 - R.A
 - NOME
